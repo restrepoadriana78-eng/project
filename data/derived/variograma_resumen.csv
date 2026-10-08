@@ -1,0 +1,72 @@
+individuo,especie,dias,fijaciones,pend_corta,pend_larga,raiz_gamma_7d_km,raiz_gamma_max_km,lag_max_d,clase
+Ardea1,Ardea alba,1259,30467,0.54,0.1,2.6,3.05,630,residente
+Ardilla1,Syntheosciurus granatensis,30,101,0.06,-0.68,0.1,0.1,15,residente
+Ardilla2,Syntheosciurus granatensis,199,1155,0.05,0.1,0.08,0.09,99,residente
+Ardilla3,Syntheosciurus granatensis,6,44,0.76,,0.17,0.17,3,insuficiente
+Ardilla4,Syntheosciurus granatensis,170,1203,0.13,0.06,0.06,0.06,85,residente
+Ardilla5,Syntheosciurus granatensis,155,1069,0.15,0.03,0.08,0.08,77,residente
+Asio1,Asio clamator,904,2638,0.59,0.06,0.25,0.24,452,residente
+Asio2,Asio clamator,126,612,0.74,0.47,0.35,0.55,63,intermedio
+Buho1,Ciccaba albitarsis,7,113,0.55,,0.19,0.19,3,insuficiente
+Buho2,Ciccaba albitarsis,7,105,0.95,,0.25,0.25,3,insuficiente
+Cormorán1,Phalacrocorax brasilianus,131,2964,1.74,0.5,2.23,3.71,65,intermedio
+Gallinazo1,Coragyps atratus,236,2257,0.56,0.14,3.27,3.89,118,residente
+Gallinazo2,Coragyps atratus,1041,23939,0.93,0.1,8.14,8.95,521,residente
+Garza1,Bubulcus ibis,1381,37754,0.68,0.11,1.96,2.5,691,residente
+Garza2,Bubulcus ibis,1247,30312,0.57,0.33,6.91,13.45,624,intermedio
+Garza3,Bubulcus ibis,1017,23708,0.39,0.04,3.01,3.17,508,residente
+Garza4,Bubulcus ibis,1309,32014,0.58,0.01,4.87,5.49,655,residente
+Garza5,Bubulcus ibis,818,19440,0.69,0.49,6.86,19.92,409,intermedio
+Garza6,Bubulcus ibis,672,14692,0.52,0.22,4.97,7.3,336,residente
+Garza7,Bubulcus ibis,1247,29638,0.56,-0.04,4.21,4.01,624,residente
+Guacharaca1,Ortalis columbiana,1408,10847,0.08,0.07,0.42,0.33,704,residente
+Guacharaca2,Ortalis columbiana,1282,12727,0.41,0.07,0.15,0.17,641,residente
+Guacharaca3,Ortalis columbiana,137,3390,0.45,-0.03,0.08,0.09,68,residente
+Guacharaca4,Ortalis columbiana,1282,11938,0.46,0.07,0.48,0.42,641,residente
+Guacharaca5,Ortalis columbiana,1262,11006,1.05,0.14,0.36,0.55,631,residente
+Guacharaca6,Ortalis columbiana,1032,9215,1.44,0.09,0.44,0.37,516,residente
+Guacharaca7,Ortalis columbiana,1244,10670,0.39,-0.01,0.16,0.17,622,residente
+Nycticorax,Nycticorax nycticorax,82,351,2.16,0.19,5.53,8.44,41,residente
+Pava1,Chamaepetes goudotii,1272,4566,1.22,0.31,0.67,1.39,636,intermedio
+Pava2,Chamaepetes goudotii,333,533,0.15,0.02,0.08,0.09,167,residente
+Perezoso1,Choloepus hoffmanni,80,289,0.38,1.12,0.26,0.65,40,no residente
+Phimosus1,Phimosus infuscatus,437,11369,0.57,0.2,1.85,2.6,218,residente
+Phimosus2,Phimosus infuscatus,640,16099,0.55,0.1,1.69,1.58,320,residente
+Phimosus3,Phimosus infuscatus,1259,30317,0.21,0.05,0.98,1.04,630,residente
+Phimosus4,Phimosus infuscatus,1162,29103,0.52,0.34,1.64,3.48,581,intermedio
+Phimosus5,Phimosus infuscatus,1303,29192,0.21,0.02,1.35,1.56,652,residente
+Phimosus6,Phimosus infuscatus,1297,30452,0.57,0.56,4.34,16.76,648,intermedio
+Phimosus7,Phimosus infuscatus,1303,30204,0.2,0.03,1.31,1.54,651,residente
+Phimosus8,Phimosus infuscatus,1074,25598,0.08,0.02,0.97,1.02,537,residente
+Pigua1,Milvago chimachima,24,593,0.43,-0.11,0.4,0.39,12,residente
+Pigua2,Milvago chimachima,547,6137,0.59,0.31,3.34,5.01,274,intermedio
+Pigua3,Milvago chimachima,1014,5250,1.71,0.1,3.28,4.5,507,residente
+Pigua4,Milvago chimachima,1087,9239,0.59,0.09,3.64,4.58,543,residente
+Pigua5,Milvago chimachima,773,2777,0.87,1.32,3.49,37.79,386,no residente
+Pigua6,Milvago chimachima,388,10397,0.82,1.27,4.34,32.42,194,no residente
+Pigua8,Milvago chimachima,472,1318,0.71,0.29,1.48,3.5,236,residente
+Puma,Puma concolor,303,5626,1.26,-0.02,7.01,6.66,151,residente
+Tigrillo1,Leopardus tigrinus,271,237,1.12,0.11,1.21,1.39,135,residente
+Titi1,Saguinus leucopus,44,401,0.88,0.04,0.17,0.18,22,residente
+Titi2,Saguinus leucopus,102,394,1.43,0.08,0.18,0.19,51,residente
+Titi3,Saguinus leucopus,203,4439,0.95,0.09,0.3,0.35,101,residente
+Titi4,Saguinus leucopus,253,5431,0.58,0.04,0.13,0.14,126,residente
+Zarigueya1,Didelphis marsupialis,59,81,0.05,-0.01,0.09,0.09,30,residente
+Zarigueya2,Didelphis marsupialis,524,2268,0.38,-0.06,0.07,0.05,262,residente
+Zarigueya3,Didelphis marsupialis,241,711,-0.16,0.25,0.15,0.2,121,residente
+Zarigueya4,Didelphis marsupialis,166,510,0,0.02,0.04,0.04,83,residente
+Zarigueya5,Didelphis marsupialis,288,452,0.12,-0.03,0.06,0.06,144,residente
+Zarigueya6,Didelphis marsupialis,25,105,-0.01,0.2,0.14,0.18,12,residente
+Zarigueya7,Didelphis marsupialis,168,803,-0.2,0.18,0.05,0.07,84,residente
+Zorro11,Cerdocyon thous,410,1124,0.71,0,0.55,0.59,205,residente
+Zorro12,Cerdocyon thous,41,152,0.82,0.32,1.3,1.31,20,intermedio
+Zorro2,Cerdocyon thous,15,131,1.03,,1.58,1.65,8,insuficiente
+Zorro3,Cerdocyon thous,328,766,0.52,0.62,0.43,1.18,164,no residente
+Zorro4,Cerdocyon thous,750,369,0.48,1.75,0.52,4.91,375,no residente
+Zorro5,Cerdocyon thous,204,465,0.33,-0.06,0.41,0.39,102,residente
+Zorro6,Cerdocyon thous,406,1384,0.13,0.29,0.29,0.46,203,residente
+Zorro7,Cerdocyon thous,342,691,0.19,0.07,0.3,0.39,171,residente
+Zorro8,Cerdocyon thous,579,2005,0.1,2.09,0.74,15.91,290,no residente
+Zorro9,Cerdocyon thous,902,3459,0.38,0.7,1.71,5.96,451,no residente
+Ñeque3,Dasyprocta punctata,433,64,0.1,,0.16,0.15,12,insuficiente
+Ñeque4,Dasyprocta punctata,42,129,0.07,0.05,0.11,0.11,21,residente

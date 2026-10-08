@@ -1,0 +1,13 @@
+tabla,individuo,inmovil_desde,hasta,dias,fijaciones,pct_serie,corte_posliberacion_aprobado
+cola_inmovil,Ñeque2,2023-08-22,2023-09-29,37.7,187,100,excluido completo
+cola_inmovil,Zarigueya3,2023-08-12,2023-08-21,9.5,67,8.6,
+cola_inmovil,Pava1,2026-09-21,2026-09-28,6.5,34,0.7,
+cola_inmovil,Zarigueya7,2023-08-25,2023-09-01,6.4,43,5.1,
+cola_inmovil,Zarigueya2,2024-05-20,2024-05-26,5.5,23,1,
+cola_inmovil,Ardea1,2026-09-27,2026-10-01,3.7,93,0.3,
+posliberacion,Asio2,,,,,,primeros 10 días (propuesta aprobada de ampliar a 20 días)
+posliberacion,Pigua5,,,,,,primeros 7 días; resto = posible dispersión
+posliberacion,Perezoso1,,,,,,sin asentamiento: excluido de área de vida y excursiones
+posliberacion,Zorro12,,,,,,sin corte
+posliberacion,Asio1,,,,,,sin corte
+posliberacion,Guacharaca4,,,,,,sin corte

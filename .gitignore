@@ -1,0 +1,19 @@
+# Datos crudos de telemetría (coordenadas sensibles) y SIG: nunca en git
+data/raw/
+*.gpkg
+*.gdb/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.tiff
+movebank*.csv
+# PDFs con copyright
+*.pdf
+# Entornos
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.venv/
