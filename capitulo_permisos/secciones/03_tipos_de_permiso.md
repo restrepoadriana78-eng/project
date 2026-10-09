@@ -1,6 +1,6 @@
 # 3. Tipos de permiso y autoridad competente
 
-_Borrador v0.1 (secciones 3.1–3.3) — 9 oct. 2026. Extensión objetivo de la sección 3: 9 páginas._
+_Borrador v0.2 (secciones 3.1–3.5) — 9 oct. 2026. Extensión objetivo de la sección 3: 9 páginas._
 
 La primera pregunta que debe hacerse quien planea un muestreo no es "¿qué permiso pido?", sino "¿para qué voy a recolectar?". La normativa colombiana separa los permisos según la **finalidad** de la recolección, y esa finalidad determina el régimen aplicable, la autoridad, la duración y las obligaciones (Tabla 3.1). Tres finalidades conducen a regímenes distintos:
 
@@ -78,6 +78,52 @@ La separación entre los dos primeros regímenes está en el propio DUR: el perm
 
 > 🗣️ **TESTIMONIO (por conseguir) — T3, estudios ambientales.** ¿Qué diferencias encuentra entre tramitar el permiso de estudio ante la ANLA y ante una CAR? ¿Cómo organiza los muestreos para que quepan en los dos años de vigencia? Perfil: consultor/a con experiencia en estudios de impacto ambiental.
 
+## 3.4 Monitoreo de largo plazo
+
+El monitoreo de la biodiversidad implica repetir muestreos durante años o décadas en los mismos sitios. La normativa no contempla un "permiso de monitoreo" como figura propia: el monitoreo se ampara en el permiso que corresponda a su finalidad (Tabla 3.1). La decisión práctica más importante es, por tanto, **alinear la duración del programa con la vigencia del permiso**:
+
+- Un programa de monitoreo académico o institucional de largo plazo encaja mejor bajo un **Permiso Marco**, que puede otorgarse hasta por diez años [N07]. Un permiso individual dura como máximo cinco [N07].
+- El monitoreo que hace parte de las obligaciones de una licencia ambiental (seguimiento de un proyecto licenciado) no es un estudio para *solicitar* una licencia. [VERIFICAR con el abogado qué permiso ampara la recolección en el seguimiento y monitoreo de proyectos ya licenciados: ¿la propia licencia, un permiso de estudio o un permiso de recolección?]
+- Las entidades del SINA que monitorean dentro de sus funciones están exentas del permiso, pero no de depositar especímenes y publicar datos en el SiB Colombia (art. 2.2.2.8.1.2, par. 1) [N08].
+
+**Métodos no letales y sin captura.** Las cámaras trampa, las grabadoras acústicas o los censos visuales no implican, en principio, "captura, remoción o extracción" de especímenes, que es lo que define la recolección (art. 2.2.2.8.1.3) [N07]. [ZONA GRIS — verificar con el abogado si el registro fotográfico o acústico sin captura requiere permiso de recolección. Si se instala infraestructura en áreas protegidas o reservas forestales, aplican las reglas de la sección 3.6.]
+
+**Infraestructura permanente en reservas forestales.** Parcelas permanentes, torres o estaciones de monitoreo pueden instalarse sin sustracción de la reserva forestal, porque la Resolución 0083 de 2026 incluye entre las actividades de bajo impacto "el montaje de infraestructura para el desarrollo de actividades de campo, que hagan parte de proyectos de investigación científica en diversidad biológica" (art. 2, num. 4) y "la ubicación de estaciones hidrometeorológicas y de monitoreo ambiental" (art. 2, num. 11) [N26]. Esto no exime del permiso de recolección (art. 5) y exige informar previamente a la autoridad (art. 6). Véase la sección 3.6.
+
+**Renovación.** Antes de que venza el permiso, planifique su renovación con tiempo: una interrupción del permiso es una interrupción de la serie temporal. [VERIFICAR en el DUR si existe trámite de prórroga o renovación del permiso marco e individual y con qué antelación debe solicitarse.]
+
+> 🗣️ **TESTIMONIO (por conseguir) — T1b, monitoreo de largo plazo.** ¿Cómo se ha mantenido el amparo legal de una serie de monitoreo a lo largo de varios permisos? Perfil: coordinador/a de un programa de monitoreo de largo plazo.
+
+## 3.5 Acceso a recursos genéticos y productos derivados: códigos de barras, ADN ambiental y envío de muestras
+
+Las herramientas moleculares se han vuelto rutinarias en el monitoreo de la biodiversidad: códigos de barras de ADN para identificar especies, ADN ambiental (eDNA) extraído de agua o suelo, metabarcoding de muestras de suelo o heces. La pregunta práctica es si estas técnicas requieren, además del permiso de recolección, un **contrato de acceso a recursos genéticos**, que se tramita ante el Ministerio de Ambiente y es mucho más exigente.
+
+**Qué configura acceso.** La Resolución 1348 de 2014, que precisa la aplicación de la Decisión 391 en Colombia, establece que configuran acceso las actividades realizadas con especies nativas "que pretendan la separación de las unidades funcionales y no funcionales del ADN y/o el ARN, en todas las formas que se encuentren en la naturaleza" y las que pretendan "el aislamiento de una o varias moléculas [...] producidas por el metabolismo de un organismo" (art. 2, nums. 1–2) [N15]. El contrato de acceso es un procedimiento formal que requiere solicitud, contrato, resolución y registro (Decisión 391, art. 16) [N14].
+
+**Qué no configura acceso.** El DUR establece dos exclusiones para la investigación no comercial:
+
+- Bajo **permiso de recolección**, las actividades de sistemática molecular, ecología molecular, evolución y biogeografía "no configuran acceso al recurso genético" (DUR, art. 2.2.2.8.1.2, par. 5) [N07, N15].
+- Con **especímenes de colecciones biológicas**, "las actividades de investigación científica básica con fines no comerciales que usen colecciones biológicas y que involucren actividades de sistemática molecular, ecología molecular, evolución y biogeografía molecular no configuran acceso al recurso genético" (art. 2.2.2.9.1.4, par. 1) [N10].
+
+La Resolución 1348 excluye también las especies introducidas y los recursos de origen humano (art. 2, par. 2) [N15]. En cambio, el acceso con fines "industriales, comerciales o de prospección biológica" exige siempre contrato (art. 2.2.2.9.1.4, par. 2) [N10].
+
+**Regla práctica.** Un estudio de códigos de barras o de filogeografía con especies nativas, hecho por un grupo académico, con especímenes colectados bajo permiso de recolección o depositados en una colección registrada y sin fines comerciales, se ubica dentro de las exclusiones del DUR. Si cualquiera de esas condiciones falla (no hay permiso, la finalidad es comercial, o se busca una molécula con fines de bioprospección), debe consultarse al Ministerio sobre la necesidad de contrato de acceso.
+
+> ⚠️ **ZONA GRIS (revisión jurídica) — La definición andina de acceso.** La Decisión 391 define el acceso como la obtención y utilización de recursos genéticos "con fines de investigación, prospección biológica, conservación, aplicación industrial o aprovechamiento comercial, entre otros" (art. 1) [N14]. Es decir, incluye expresamente la investigación y la conservación. Las exclusiones del DUR y de la Resolución 1348 son normas nacionales de menor jerarquía que la norma comunitaria andina. Este capítulo no resuelve esa tensión: se limita a señalar que existe y que las exclusiones nacionales son las que aplican hoy las autoridades colombianas. [Pendiente: literatura jurídica revisada por pares o jurisprudencia del Tribunal de Justicia de la Comunidad Andina.]
+
+> ⚠️ **ZONA GRIS — ADN ambiental.** El eDNA no proviene de un espécimen colectado en el sentido tradicional, y no encaja claramente en la definición de recolección de especímenes del DUR [N07, N15]. La ANLA, en su guía para el permiso marco, considera que "el permiso es necesario si se va a recolectar especímenes (individuos, ADN, invertebrados, microorganismos entre otros) asociados a las muestras de agua y suelo" (ANLA, 2025, secc. 7.1) [N39]. Esta es una interpretación administrativa que resuelve si se necesita permiso de recolección, pero no si el eDNA configura acceso. Recomendación: tramitar el muestreo de eDNA bajo permiso de recolección y documentar que el análisis tiene fines de ecología molecular no comercial.
+
+**Envío de muestras al exterior para secuenciación.** No existe una norma única que regule el envío de muestras o extractos de ADN a laboratorios extranjeros [N17]. Las recomendaciones mínimas son:
+
+1. Verificar que la colecta original esté amparada por un permiso vigente y que el análisis esté dentro de las exclusiones de acceso descritas arriba.
+2. Formalizar el envío con un **acuerdo de transferencia de material** institucional que prohíba el uso comercial y la transferencia a terceros, y que exija devolver o destruir el material sobrante.
+3. Si el material va a un país Parte del Protocolo de Nagoya, prever que la institución receptora puede pedir documentación de cumplimiento (sección 2.2) [N16].
+4. Cumplir los requisitos de exportación de especímenes (CITES y requisitos sanitarios del ICA, sección 5).
+
+[VERIFICAR con el abogado si el envío de extractos de ADN —no de especímenes— requiere algún permiso de exportación ambiental.]
+
+> 🗣️ **TESTIMONIO (por conseguir) — T4, recursos genéticos.** ¿Cómo resolvió su grupo el envío de muestras para secuenciación al exterior? ¿Alguna vez tuvo que tramitar un contrato de acceso? Perfil: investigador/a en sistemática molecular o eDNA.
+
 **Tabla 3.1.** Comparación de los permisos de recolección y de estudio. [Borrador; se completará con 3.4–3.7.]
 
 | | Permiso Marco | Permiso Individual | Permiso de estudio |
@@ -97,5 +143,11 @@ La separación entre los dos primeros regímenes está en el propio DUR: el perm
 Autoridad Nacional de Licencias Ambientales [ANLA]. (2025). _Guía externa para la evaluación del Permiso Marco de Recolección de especímenes de especies silvestres de la diversidad biológica con fines de investigación científica no comercial_ (IR-GU-04, versión 1). [VERIFICAR título exacto y URL.]
 
 Decreto 1076 de 2015. Decreto Único Reglamentario del Sector Ambiente y Desarrollo Sostenible. Versión integrada actualizada al 2 de noviembre de 2025. Departamento Administrativo de la Función Pública.
+
+Comunidad Andina. (1996). _Decisión 391: Régimen Común sobre Acceso a los Recursos Genéticos_.
+
+Ministerio de Ambiente y Desarrollo Sostenible [MADS]. (2014). _Resolución 1348 de 2014_, modificada por la Resolución 1352 de 2017.
+
+Ministerio de Ambiente y Desarrollo Sostenible [MADS]. (2026). _Resolución 0083 de 2026_, corregida por la Resolución 0122 de 2026.
 
 Ministerio de Ambiente y Desarrollo Sostenible [MADS]. (2024). _Auto 328 del 4 de octubre de 2024_. Dirección de Bosques, Biodiversidad y Servicios Ecosistémicos.
