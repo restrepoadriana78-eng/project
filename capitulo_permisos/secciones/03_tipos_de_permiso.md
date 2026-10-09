@@ -1,6 +1,6 @@
 # 3. Tipos de permiso y autoridad competente
 
-_Borrador v0.2 (secciones 3.1–3.5) — 9 oct. 2026. Extensión objetivo de la sección 3: 9 páginas._
+_Borrador v0.3 (secciones 3.1–3.7) — 9 oct. 2026. Extensión objetivo de la sección 3: 9 páginas._
 
 La primera pregunta que debe hacerse quien planea un muestreo no es "¿qué permiso pido?", sino "¿para qué voy a recolectar?". La normativa colombiana separa los permisos según la **finalidad** de la recolección, y esa finalidad determina el régimen aplicable, la autoridad, la duración y las obligaciones (Tabla 3.1). Tres finalidades conducen a regímenes distintos:
 
@@ -123,6 +123,56 @@ La Resolución 1348 excluye también las especies introducidas y los recursos de
 [VERIFICAR con el abogado si el envío de extractos de ADN —no de especímenes— requiere algún permiso de exportación ambiental.]
 
 > 🗣️ **TESTIMONIO (por conseguir) — T4, recursos genéticos.** ¿Cómo resolvió su grupo el envío de muestras para secuenciación al exterior? ¿Alguna vez tuvo que tramitar un contrato de acceso? Perfil: investigador/a en sistemática molecular o eDNA.
+
+## 3.6 Áreas protegidas, reservas forestales y especies en veda
+
+El permiso de recolección autoriza a recolectar; no autoriza a hacerlo en cualquier lugar ni sobre cualquier especie. Antes de salir al campo hay que revisar **dónde** se va a muestrear y **qué** se va a recolectar, porque ambas cosas pueden exigir autorizaciones adicionales.
+
+### Sistema de Parques Nacionales Naturales
+
+Parques Nacionales Naturales de Colombia interviene de dos formas distintas, que conviene no confundir [N07]:
+
+1. **Como autoridad que otorga el permiso**, cuando la recolección se realiza dentro de las áreas del sistema (DUR, art. 2.2.2.8.1.4, lit. c; art. 2.2.2.9.2.3, num. 3) [N07, N09].
+2. **Como autoridad que autoriza la recolección de quien ya tiene un permiso marco** otorgado por otra autoridad: "El titular del Permiso Marco de Recolección que pretenda recolectar especímenes al interior de un área del Sistema de Parques Nacionales Naturales, deberá, previo a la recolección, obtener autorización de Parques Nacionales Naturales de Colombia", que debe resolver en treinta días (art. 2.2.2.8.2.4, par. 2) [N07].
+
+Cuando un muestreo combina áreas del sistema con áreas externas, la ANLA exige allegar la autorización expedida por Parques Nacionales (ANLA, 2025, secc. 7.1) [N39]. El régimen general de las áreas del sistema, incluida la investigación, proviene del Decreto 622 de 1977, compilado en el DUR [N18]. [Pendiente: texto literal del Decreto 622/1977 sobre investigación en el SPNN.]
+
+### Otras áreas protegidas del SINAP
+
+Las áreas protegidas regionales (parques naturales regionales, distritos de manejo integrado, reservas forestales protectoras, entre otras) y las reservas naturales de la sociedad civil hacen parte del Sistema Nacional de Áreas Protegidas, cuya regulación proviene del Decreto 2372 de 2010, compilado en el DUR [N19]. Para un muestreo concreto deben revisarse la categoría del área, su acto de declaratoria y su plan de manejo, que pueden restringir actividades aunque se tenga permiso de recolección [N19]. En las reservas naturales de la sociedad civil, además, se requiere la autorización del propietario (sección 4).
+
+### Reservas forestales de la Ley 2 de 1959
+
+Las reservas forestales de la Ley 2 de 1959 no son áreas protegidas en sentido estricto, pero cubren buena parte del territorio nacional y tienen un régimen especial [N24]. La recolección de especímenes no requiere sustraer el área. La instalación de infraestructura de investigación o de monitoreo tampoco, porque está incluida entre las actividades de bajo impacto de la Resolución 0083 de 2026 (art. 2, nums. 4, 9 y 11) [N26]. Sin embargo:
+
+- el interesado debe enviar **previamente** la información del artículo 6 (identificación, cronograma, coordenadas, descripción técnica y medidas de manejo) al Ministerio de Ambiente, si la reserva es nacional, o a la autoridad ambiental regional, si es regional [N26];
+- la resolución "no exonera al interesado [...] de obtener por parte de la autoridad ambiental competente, el derecho al uso o afectación de los recursos naturales renovables" (art. 5) [N26];
+- en las reservas forestales **protectoras** prevalece el régimen de usos del plan de manejo (art. 2, par. 1) [N26].
+
+Las actividades que no están en la lista requieren sustracción, cuyo estudio técnico se rige hoy por los términos de referencia de la Resolución 1705 de 2024 [N25].
+
+> ⚠️ **ZONA GRIS (revisión jurídica).** La Resolución 0083 de 2026 regula la infraestructura, no la colecta. No es claro si un muestreo sin infraestructura en una reserva forestal de Ley 2 requiere el aviso previo del artículo 6. [Pendiente del concepto del abogado.]
+
+### Especies amenazadas y en veda
+
+- **Especies amenazadas.** El listado oficial vigente es el de la Resolución 0126 de 2024, que derogó las Resoluciones 1218 de 2003 y 1912 de 2017 [N23]. Recolectar especies amenazadas, vedadas o endémicas bajo un permiso marco requiere autorización previa con el formato correspondiente (DUR, art. 2.2.2.8.2.4, par. 1) [N07].
+- **Vedas de flora.** Siguen vigentes, en lo que no haya sido modificado por actos posteriores, la Resolución 0213 de 1977, que estableció "veda en todo el territorio nacional para el aprovechamiento, transporte y comercialización" de epífitas como musgos, líquenes, orquídeas y bromelias, y la Resolución 0801 de 1977, para helechos arborescentes [N28]. Pueden existir además vedas regionales. Para proyectos sometidos a licencia, permiso o autorización ambiental, ya no se tramita por separado el levantamiento parcial de veda: la autoridad impone las medidas dentro del instrumento ambiental (Decreto 2106 de 2019, art. 125) [N29]. [Pendiente: texto literal del par. 2 del art. 125 y lista exacta de grupos de la Res. 0213/1977.]
+
+> 🗣️ **TESTIMONIO (por conseguir) — T5, Parques Nacionales.** ¿Cómo fue el trámite de autorización para investigar dentro de un parque nacional y qué condiciones le impusieron? Perfil: investigador/a con autorización de PNN.
+
+## 3.7 Ciencia participativa
+
+Los proyectos de ciencia participativa (o ciudadana) involucran a personas no especialistas en la toma de datos: conteos de aves, registros fotográficos en plataformas en línea, monitoreos comunitarios. Además de las reglas sobre recolección, plantean tres cuestiones jurídicas propias.
+
+**1. ¿Necesitan permiso los participantes?** Si el proyecto implica captura, remoción o extracción de especímenes, sí: la recolección es la misma, la haga un científico o un voluntario [N07]. El permiso debe estar a nombre de la institución o persona que coordina el proyecto, y los participantes deben actuar dentro de su alcance. Si la participación se limita a observaciones, fotografías o grabaciones sin captura, se aplica la zona gris señalada en la sección 3.4.
+
+**2. Datos personales de los participantes.** Los registros suelen ir acompañados de nombres, correos, ubicaciones y fotografías de los participantes. Estos son datos personales y su tratamiento se rige por la Ley 1581 de 2012, que exige, entre otras cosas, la autorización del titular [N30]. Conviene separar desde el diseño los datos de biodiversidad, que deben publicarse en el SiB Colombia [N08], de los datos personales, que deben protegerse. [Pendiente: texto literal del principio de autorización de la Ley 1581/2012.]
+
+**3. Derechos sobre los datos y reconocimiento.** Las fotografías y bases de datos pueden estar protegidas por derechos de autor cuando son originales (Ley 23 de 1982, modificada por la Ley 1915 de 2018) [N31]. No debe afirmarse que los datos "son de" alguien sin analizar el tipo de dato, el contrato y la licencia [N31]. La recomendación práctica es definir desde el inicio, en los términos de participación, la licencia de uso de los datos, la forma de atribución y la gobernanza de la información. [Pendiente: incorporar literatura sobre reconocimiento y autoría de participantes (L03–L05, aún no verificadas).]
+
+El Acuerdo de Escazú, aprobado por la Ley 2273 de 2022, refuerza el derecho de acceso a la información ambiental y la participación pública, y sirve de marco para que los datos generados con comunidades vuelvan a ellas [N32]. [Pendiente: texto literal del art. 7 del Acuerdo.]
+
+> 🗣️ **TESTIMONIO (por conseguir) — T9, ciencia participativa.** ¿Cómo maneja su iniciativa los permisos, los datos personales y la atribución de los registros? Perfil: coordinador/a de una iniciativa de ciencia participativa.
 
 **Tabla 3.1.** Comparación de los permisos de recolección y de estudio. [Borrador; se completará con 3.4–3.7.]
 
