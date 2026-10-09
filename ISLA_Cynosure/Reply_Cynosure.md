@@ -10,7 +10,7 @@ My profile is relevant to the evaluation in three areas:
 - **Business practices and responsible sourcing:** at the Humboldt Institute I coordinated nature-positive and socio-ecological planning work with Ecopetrol and GeoPark, assessing nature-related dependencies, impacts and supply-chain practices under the TNFD recommendations, which led to GeoPark's first TNFD-aligned report.
 - **Colombian landscape context:** extensive fieldwork with municipalities, metropolitan authorities, companies and communities, and first-hand knowledge of smallholder coffee landscapes, relevant to the Huila landscape.
 
-Please find attached my updated CV. My daily consultancy rate is **USD 250 per day**, plus travel and field expenses. I read, write and understand English well; my spoken English is intermediate. I am available for the evaluation period (November 2026 – May 2027).
+Please find attached my updated CV. My daily consultancy rate is **USD 250 per day**, plus travel and field expenses. I read, write and understand English well; my spoken English is intermediate. I am available for the evaluation period (November 2026 – May 2027), including travel to the programme landscapes for fieldwork.
 
 I look forward to collaborating with you on this proposal.
 

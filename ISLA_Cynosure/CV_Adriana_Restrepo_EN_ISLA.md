@@ -42,9 +42,20 @@ Biologist (MSc) with 15+ years of applied research and project coordination in C
 - BSc Biology — University of Antioquia, 2004
 - Diploma in Management Skills — EAN University, 2021
 
-## Selected publications
-- Restrepo A., [VERIFY full co-author list], Daza J.M. (2017). Amphibians and reptiles from two localities in the northern Andes of Colombia. *Check List* 13(4): 203–237. https://doi.org/10.15560/13.4.203
-- [ADD further peer-reviewed articles from ResearchGate — authors, year, title, journal, DOI]
+## Selected publications (relevant to landscape transformation, biodiversity monitoring and public–private engagement)
+- Mendoza-Henao, A.M., Pantoja-Sánchez, H., Barona-Cortés, E., Martínez-Medina, D., **Restrepo, A.**, Nieto, F.J., Hernández-Leal, O.F., & Ulloa, J.S. (2025). Integrating soundscape to landscape in the understanding of agricultural transformation in the Neotropical context. *Philosophical Transactions of the Royal Society B*, 380(1928), 20240048. https://doi.org/10.1098/rstb.2024.0048
+- Negret, P.J., Luskin, M.S., Gómez-Valencia, B., Díaz-Pulido, A., Romero, L.H., **Restrepo, A.**, Zaehringer, J.G., Jones, K.R., Ochoa-Quintero, J.M., & Mendes, C.P. (2023). Neotropical understory birds and mammals show divergent behaviour responses to human pressure. *Perspectives in Ecology and Conservation*, 21(2), 180–188.
+- Sánchez-Clavijo, L.M., Gómez-Valencia, B., Londoño-Murcia, M.C., Martínez-Callejas, S.J., **Restrepo-Isaza, A.**, Soto-Vargas, C., & Ochoa-Quintero, J.M. (2024). *Monitoreo de la biodiversidad colombiana* [Monitoring Colombian biodiversity]. Humboldt Institute. ISBN 978-628-7721-33-3.
+- Moncada-Rasmussen, D.M., Díaz-Pulido, A., Mora-Rodríguez, D., Sánchez-Clavijo, L.M., **Restrepo-Isaza, A.**, Valenzuela, L., & Espinosa-Sanabria, J.A. (eds.) (2021). *Public–private experiences in biodiversity monitoring and reporting in Andean-Amazonian contexts: the Biodiversity and Development for Putumayo initiative*. ANDI, SINCHI, Humboldt Institute & WCS.
+- Mendoza-Henao, A.M., Martínez-Medina, D., Barona-Cortés, E., Pantoja-Sánchez, H.E., Ulloa, J.S., **Restrepo, A.**, *et al.* (2025). *Acoustic indicators to assess noise impacts on biodiversity in Colombia*. Humboldt Institute Repository.
+- **Restrepo, A.**, Molina-Zuluaga, C., Hurtado, J.P., Marín, C.M., & Daza, J.M. (2017). Amphibians and reptiles from two localities in the northern Andes of Colombia. *Check List*, 13(4), 203–237. https://doi.org/10.15560/13.4.203
+- Ortiz-Yusty, C., **Restrepo, A.**, & Páez, V.P. (2014). Potential distribution of *Podocnemis lewyana* and its possible fluctuation under global climate change scenarios. *Acta Biológica Colombiana*, 19, 471–481.
+- [ADD 2026 article — *Global Ecology and Conservation*: authors, title] https://doi.org/10.1016/j.gecco.2026.e04455
+
+*Full list of 25+ peer-reviewed articles, book chapters and technical books available on request / ResearchGate.*
+
+## Availability
+Available November 2026 – May 2027, including field travel to programme landscapes (Colombia and other countries as required).
 
 ## Languages
 Spanish (native) · English (very good reading comprehension and technical writing; intermediate spoken communication)
