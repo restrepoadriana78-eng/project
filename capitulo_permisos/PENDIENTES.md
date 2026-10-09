@@ -2,13 +2,13 @@
 
 ## Prioridad alta (condicionan la redacción)
 - [ ] **N40** — Vigencia material del Decreto 309/2000 (DUR, Lib. 2, Parte 2, Tít. 1, Cap. 5) frente al Decreto 1376/2013. **Decisión provisional:** recuadro "zona gris" + revisión del abogado.
-- [x] **N26** — Resuelto (v13). El art. 2 lista el *montaje de infraestructura* para investigación en biodiversidad (num. 4), infraestructura de monitoreo (num. 9) y estaciones (num. 11), no la colecta. Requiere aviso previo (art. 6) y no exime del permiso de recolección (art. 5). Falta: Res. 122/2026 y visto bueno del abogado.
-- [x] **N21** — Resuelto en lo principal (v13): la Ley 2455/2025 NO modifica los arts. 23–26 de la Ley 84/1989. Falta: texto vigente de esos artículos y alcance del «título IX» derogado (abogado).
+- [x] **N26** — Resuelto (v13). El art. 2 lista el *montaje de infraestructura* para investigación en biodiversidad (num. 4), infraestructura de monitoreo (num. 9) y estaciones (num. 11), no la colecta. Requiere aviso previo (art. 6) y no exime del permiso de recolección (art. 5). Res. 122/2026 leída (v14): solo corrige vías y numeración. Falta visto bueno del abogado.
+- [x] **N21** — Resuelto en lo principal (v13): la Ley 2455/2025 NO modifica los arts. 23–26 de la Ley 84/1989. Cerrado (v14): el derogado es el Cap. IX; los arts. 23–26 siguen vigentes. Zona gris: aplicabilidad del Cap. VI ("experimentos", autorización del "Ministerio de Salud Pública") a la fauna en campo.
 
 ## Para el abogado
 - N40: vigencia material del Decreto 309/2000.
 - N26: ¿la colecta sin infraestructura en reserva forestal requiere el aviso del art. 6 de la Res. 083/2026?
-- N21: ¿qué artículos comprende el «título IX Disposiciones generales» de la Ley 84/1989 derogado por la Ley 2455/2025?
+- N21: ¿el Cap. VI de la Ley 84/1989 (arts. 23–26) aplica a captura, marcaje, muestreo o colecta de fauna silvestre en campo? ¿Qué entidad ejerce hoy la autorización del "Ministerio de Salud Pública"?
 
 ## Por verificar
 - [ ] N33 concepto jurídico MADS 2025 · N34 Ley 1333/2009 · N35 Ley 2387/2024 · N36 Ley 2111/2021 · N37 art. 16 Decreto-Ley 3570/2011 · N38 Decreto 730/1997
