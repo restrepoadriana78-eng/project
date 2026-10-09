@@ -47,7 +47,7 @@ Biologist (MSc) with 15+ years of applied research and project coordination in C
 - [ADD further peer-reviewed articles from ResearchGate — authors, year, title, journal, DOI]
 
 ## Languages
-Spanish (native) · English (intermediate — [ADJUST: e.g., "working proficiency: reading/writing technical reports"])
+Spanish (native) · English (very good reading comprehension and technical writing; intermediate spoken communication)
 
 ## References
 - **José Manuel Ochoa** — Manager CESCG, Humboldt Institute · jochoa@humboldt.org.co · +57 310 887 8973
