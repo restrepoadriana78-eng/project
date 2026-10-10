@@ -28,6 +28,14 @@ La información asociada es "aquella información básica inherente a los espec�
 
 Recuerde que el SiB Colombia no es una autoridad que otorgue permisos: es el sistema donde se publica la información y que expide la constancia de publicación [N08].
 
+> 🗣️ **RECUADRO SiB COLOMBIA (por solicitar al equipo coordinador del SiB) — T7b, reporte de datos de permisos.** Texto breve (200–300 palabras), escrito por el equipo del SiB Colombia con información **vigente a 2026**, que responda:
+> 1. ¿Cómo se cumple hoy la obligación de reportar los datos de los permisos de recolección y de estudio? ¿Sigue vigente el modelo de Certificado de Reporte (CR-SiB) o fue reemplazado?
+> 2. ¿Los datos reportados por obligación de un permiso son abiertos y visibles en el SiB y en GBIF?
+> 3. ¿Cuáles son los errores de calidad más frecuentes en los datos que llegan por esta vía y cómo evitarlos?
+> 4. ¿Qué herramientas y acompañamiento ofrece el SiB para publicar (plantillas Darwin Core, guías de validación)?
+>
+> [Nota interna, no publicar: un informe de pasantía de 2019 describía el CR-SiB como un modelo de publicación autónoma con datos no abiertos y de calidad baja, y una migración en curso hacia el modelo abierto (Espinosa Murillo, 2019 [L12], literatura gris; fuente primaria: SiB Colombia, 2018b). Usar solo como guía para formular las preguntas; el texto publicado debe reflejar la situación actual que informe el SiB.]
+
 ## 5.4 Informes a la autoridad
 
 Los titulares deben presentar informes a la autoridad que otorgó el permiso, acompañados de las constancias de depósito y de publicación en el SiB. La guía de la ANLA se refiere a informes semestrales para el permiso marco [N39]. [VERIFICAR en el DUR la periodicidad y el contenido de los informes de cada tipo de permiso.]

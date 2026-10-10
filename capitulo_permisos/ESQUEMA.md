@@ -30,6 +30,7 @@
 | T4 – Recursos genéticos | Investigador/a que gestionó contrato de acceso o envío de muestras para secuenciación |
 | T5 – Parques Nacionales | Investigador/a con autorización de investigación en el SPNN |
 | T6 – Comunidades | Investigador/a que trabajó en territorio étnico o con acuerdos comunitarios |
-| T7 – Después del campo | Gestor/a de colección o del SiB Colombia |
+| T7 – Después del campo | Gestor/a de una colección registrada |
+| T7b – Reporte de datos al SiB | Equipo coordinador del SiB Colombia (texto institucional actualizado a 2026) |
 | T8 – Autoridad | Funcionario/a de ANLA o de una CAR que evalúa permisos |
 | T9 – Ciencia participativa | Coordinador/a de una iniciativa de ciencia participativa |
