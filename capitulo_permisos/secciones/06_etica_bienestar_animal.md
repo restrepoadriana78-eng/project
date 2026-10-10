@@ -14,7 +14,7 @@ Su Capítulo VI regula "el uso de animales vivos en experimentos e investigació
 - se prohíbe usar animales "cuando los resultados del experimento son conocidos con anterioridad", cuando el experimento "no tiene un fin científico" y usar animales "de grado superior en la escala zoológica al indispensable" (art. 25) [N21];
 - todo experimento con animales vivos requiere un comité de ética, al que el director debe comunicar "la naturaleza de los procedimientos que vayan a emplearse con los animales, el número y tipo de los mismos, las alternativas al uso de animales y las fuentes y naturaleza de los fondos de investigación" (art. 26) [N21].
 
-> ⚠️ **ZONA GRIS (revisión jurídica).** El Capítulo VI fue redactado para experimentos de laboratorio: exige autorización del "Ministerio de Salud Pública" y un comité con un veterinario del ICA, un representante de la autoridad ambiental y uno de las sociedades protectoras de animales (arts. 23 y 26) [N21]. No es claro si estas reglas se aplican a la captura, el marcaje, la toma de muestras o la colecta de fauna silvestre en campo, ni qué entidad ejerce hoy la autorización. En la práctica, las instituciones de investigación cuentan con comités institucionales de ética o de cuidado y uso de animales, cuya composición no coincide con la del artículo 26. [Pendiente del concepto del abogado.]
+> ⚠️ **ZONA GRIS (revisión jurídica).** El Capítulo VI fue redactado para experimentos de laboratorio: exige autorización del "Ministerio de Salud Pública" y un comité con un veterinario del ICA, un representante de la autoridad ambiental y uno de las sociedades protectoras de animales (arts. 23 y 26) [N21]. No es claro si estas reglas se aplican a la captura, el marcaje, la toma de muestras o la colecta de fauna silvestre en campo, ni qué entidad ejerce hoy la autorización. En la práctica, las instituciones de investigación cuentan con comités institucionales de ética o de cuidado y uso de animales, cuya composición no coincide con la del artículo 26. Castañeda Ruiz et al. (2020) describen los comités de ética en investigación y sus equivalentes, entre ellos "los comités institucionales para el cuidado y uso de animales de laboratorio", como los principales mecanismos de control ético, con fundamento en resoluciones del sector salud (Resolución 8430 de 1993 y Resolución 2378 de 2008) (p. 291) [L10]; el énfasis en el laboratorio confirma que el trabajo de campo con fauna silvestre no tiene un marco ético específico. [Pendiente del concepto del abogado.]
 
 ## 6.2 Consecuencias del maltrato
 
@@ -31,3 +31,13 @@ Mientras se aclara la zona gris, este capítulo recomienda:
 5. **Capacitar al equipo de campo**, incluidos estudiantes y voluntarios, en manejo, contención y bioseguridad.
 
 > 🗣️ **TESTIMONIO (por conseguir) — T10, ética.** ¿Cómo evalúa un comité institucional los protocolos de captura y colecta de fauna silvestre? Perfil: integrante de un comité de ética o de cuidado y uso de animales de una universidad.
+
+* * *
+
+**Referencias citadas en esta sección (APA 7, provisional)**
+
+Castañeda Ruiz, H. N., Gómez Osorio, Á. M., y Londoño Jaramillo, Á. M. (2020). Reflexiones sobre la ética de la investigación en Colombia. _El Ágora USB, 20_(2), 283–297. https://doi.org/10.21500/16578031.5144
+
+Ley 84 de 1989. Por la cual se adopta el Estatuto Nacional de Protección de los Animales [...]. Versión integrada, Departamento Administrativo de la Función Pública.
+
+Ley 2455 de 2025. Por la cual se fortalece la lucha contra el maltrato animal y se actualiza el Estatuto Nacional de Protección de los Animales Ley 84 de 1989 – Ley Ángel.
