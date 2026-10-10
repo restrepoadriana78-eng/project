@@ -21,9 +21,12 @@
 - Recuadros de testimonio por cada tipo de permiso o paso.
 - Revisión final por abogado; las dudas se señalan explícitamente.
 
+## Literatura verificada sobre Colombia (v15)
+- [x] L06 Andrade-C. (2011) y L07 Cancino Escalante y Chaparro Giraldo (2020): incorporadas en la Introducción.
+
 ## Literatura candidata sobre Colombia (por verificar contra texto completo; nada citado aún)
-- [ ] Acta Biológica Colombiana (UNAL): efectividad casi nula de la Decisión 391 en sus primeros años; dos estudios de caso. https://revistas.unal.edu.co/index.php/actabiol/article/download/10575/36930 — obtener autores, año, vol., págs., DOI.
-- [ ] "Current Situation of Genetic Resources Access in Colombia by Research Groups Registered in Colciencias" (grupos GrupLAC). Identificar revista y DOI.
+- [ ] (Probablemente Nemogá y Rojas, 2009; citado en L07) Acta Biológica Colombiana (UNAL): efectividad casi nula de la Decisión 391 en sus primeros años; dos estudios de caso. https://revistas.unal.edu.co/index.php/actabiol/article/download/10575/36930 — obtener autores, año, vol., págs., DOI.
+- [ ] (Probablemente Ávila, Blanco y Chaparro-Giraldo, 2010, Acta Biol. Colomb. 15(2): 115–130; citado en L07) "Current Situation of Genetic Resources Access in Colombia by Research Groups Registered in Colciencias" (grupos GrupLAC). Identificar revista y DOI.
 - [ ] "Access to genetic resources and benefit-sharing in Colombia: challenges of the legal framework". Identificar revista y DOI.
 - [ ] Regulatory Frameworks for the Access and Use of Genetic Resources in Latin America (PMC11058676). Revisar si es revisado por pares.
 - [ ] Genetic Resources Journal: "The promise of access and benefit-sharing is met through holistic policy reform: Insights from Colombia… COP16". Revista revisada por pares; verificar.
